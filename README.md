@@ -1,6 +1,8 @@
 # Tetris-DQN
 rainbow dqn implementation for tetris
 
+![demo run after 20k iterations](assets/demo.gif)
+
 This project implements a Rainbow Deep Q-Network (Rainbow DQN) to solve the classic game of Tetris. Rainbow DQN integrates several advanced techniques in Deep Reinforcement Learning to achieve superior performance compared to standard DQN algorithms.
 
 ## Project Overview
