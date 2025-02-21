@@ -1,0 +1,13 @@
+tetris:
+  env_id: "Tetris-v0"
+  replay_memory_size: 1000
+  mini_batch_size: 32
+  epsilon_init: 0.1
+  epsilon_decay: 0.9995
+  epsilon_min: 0.1
+  network_sync_rate: 500
+  learning_rate_a: 0.0001
+  discount_factor_g: 0.999
+  stop_on_reward: 100000
+  n_step: 1
+  reward_multiplier: 0.0
